@@ -132,6 +132,29 @@ a:visited {
   display: block;
   height: 400px;
 }
+#john-espinosa-cover {
+  background-image: url("../assets/img/john-espinosa-cover.jpg");
+}
+
+#john-espinosa-card {
+  background-image: url("../assets/img/john-espinosa.jpg");
+}
+
+#nathaniel-miller-cover {
+  background-image: url("../assets/img/nathaniel-miller-cover.jpg");
+}
+
+#nathaniel-miller-card {
+  background-image: url("../assets/img/nathaniel-miller.png");
+}
+
+#callie-miller-cover {
+  background-image: url("../assets/img/callie-miller-cover.jpg");
+}
+
+#callie-miller-card {
+  background-image: url("../assets/img/callie-miller.jpg");
+}
 
 #dev-e-loper-cover {
   background-image: url("../assets/img/dev-e-loper-cover.jpg");
@@ -1499,7 +1522,7 @@ a:visited {
 }
 
 #michael-casciato-cover {
-  background-image: url("../assets/img/michael-casciato-cover.jpg")''
+  background-image: url("../assets/img/michael-casciato-cover.jpg");
 }
 
 #michael-casciato-card {
@@ -3134,6 +3157,22 @@ a:visited {
   background-image: url("../assets/img/daniel-riley.png");
 }
 
+#jack-woodward-cover {
+  background-image: url("../assets/img/jack-woodward-cover.jpg");
+}
+
+#jack-woodward-card {
+  background-image: url("../assets/img/jack-woodward.jpg");
+}
+
+#josef-benninghoff-card {
+  background-image: url("../assets/img/josef-benninghoff.jpg");
+}
+
+#josef-benninghoff-cover {
+  background-image: url("../assets/img/josef-benninghoff-cover.jpg");
+}
+
 #saul-ocampo-cover {
   background-image: url("../assets/img/Saul-Ocampo-Cover.jpg");
 }
@@ -3160,6 +3199,60 @@ a:visited {
   -o-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
+}
+
+#ginne-c-cover {
+  background-image: url("../assets/img/ginne-c-cover.jpg");
+}
+
+#ginne-c-card {
+  background-image: url("../assets/img/ginne-c.png");
+}
+
+#sameera-bachoti-card {
+  background-image: url("../assets/img/sameera-bachoti.jpg");
+}
+
+#sameera-bachoti-cover {
+  background-image: url("../assets/img/sameera-bachoti-cover.jpg");
+}
+#miguel-tavarez-card {
+  background-image: url("../assets/img/miguel-tavarez.jpg");
+}
+#miguel-tavarez-cover {
+  background-image: url("../assets/img/miguel-tavarez-cover.jpg");
+}
+
+#brian-emory-cover {
+  background-image: url("../assets/img/brian-emory-cover.jpg");
+}
+
+#brian-emory-card {
+  background-image: url("../assets/img/brian-emory.jpg");
+}
+
+#hilary-lyttle-cover {
+  background-image: url("../assets/img/hilary-lyttle-cover.jpg");
+}
+
+#hilary-lyttle-card {
+  background-image: url("../assets/img/hilary-lyttle.jpg");
+}
+
+#j-hall-card {
+  background-image: url("../assets/img/j-hall.jpg");
+}
+
+#j-hall-cover {
+  background-image: url("../assets/img/j-hall-cover.png");
+}
+
+#james-rogers-cover {
+  background-image: url("../assets/img/james-rogers-cover.jpg");
+}
+
+#james-rogers-card {
+  background-image: url("../assets/img/james-rogers.jpg");
 }
 
 .view-profile-div {
@@ -3384,6 +3477,7 @@ a:visited {
   }
   .roster-cards-container {
     width: 650px;
+
   }
   .student-card {
     display: inline-block;
